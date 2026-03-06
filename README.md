@@ -1,8 +1,8 @@
 # minerTools
-A miner tools for natminer
+A miner tools for antminer
 # jlManageGui
 
-`jlManageGui.py` is a Tkinter desktop utility for batch miner operations by IP address.
+desktop utility for batch miner operations by IP address.
 
 ## Features
 
