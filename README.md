@@ -42,10 +42,6 @@ Install dependency:
 
 ## Run
 
-## Build (PyInstaller)
-
-
-This build expects `cat.ico` for the Windows icon.
 
 ## Notes
 
